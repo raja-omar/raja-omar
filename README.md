@@ -28,9 +28,7 @@ I'm a passionate 3rd-year Computer Science student at the University of Calgary.
 #
 
 ### 📊 Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja-omar&show_icons=true&theme=gruvbox)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raja-omar&show_icons=true&locale=en&layout=compact" alt="raja-omar" /></p>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
